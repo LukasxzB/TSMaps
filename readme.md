@@ -16,6 +16,6 @@ parcel .\index.html
 
 ### Screenshots
 
-![Screenshot 1](./screenshoots/Screenshot_1.png)
+![Screenshot 1](./screenshoots/Screenshot_1.png?raw=true)
 
-![Screenshot 2](./screenshoots/Screenshot_2.png)
+![Screenshot 2](./screenshoots/Screenshot_2.png?raw=true)
