@@ -12,8 +12,8 @@ export class User implements Mappable {
 	constructor() {
 		this.name = faker.name.findName();
 		this.location = {
-			lat: parseFloat(faker.address.latitude()),
-			lng: parseFloat(faker.address.longitude()),
+			lat: parseFloat(faker.address.latitude(15, -60)),
+			lng: parseFloat(faker.address.longitude(-30, -90)),
 		};
 	}
 
